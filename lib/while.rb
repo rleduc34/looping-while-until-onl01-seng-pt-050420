@@ -5,5 +5,3 @@ def using_while
   levitaion_force += 1
   end
 end
-
-puts "Wingardium Leviosa"
